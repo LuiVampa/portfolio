@@ -1,0 +1,12 @@
+{
+  "stocks":[
+    {
+      "symbol":"AAPL",
+      "volume":1
+    },
+    {
+      "symbol":"AAPL",
+      "volume":15
+    }
+  ]
+}
