@@ -1,0 +1,5 @@
+app:
+  scale: 3
+  iex:
+    rateUrl: "https://sandbox.iexapis.com/stable/stock/market/batch?symbols=%s&types=quote&token=Tsk_107302402fed46728d55a5a376085c59&filter=symbol,latestPrice"
+    topsUrl: "https://sandbox.iexapis.com/stable/tops?symbols=%s&token=Tsk_107302402fed46728d55a5a376085c59"
